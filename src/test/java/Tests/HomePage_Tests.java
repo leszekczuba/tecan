@@ -11,7 +11,6 @@ import javax.inject.Inject;
 
 @Guice
 public class HomePage_Tests extends TestBase {
-
     @Inject
     private Tecan_HomePage tecan_homePage = new Tecan_HomePage();
     @Inject
